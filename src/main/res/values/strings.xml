@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samurai Soar Blade Runner</string>
+    <string name="samurai_sour">Samurai Sour</string>
+    <string name="blade_runner">Blade Runner</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="samurai_sour_main">Samurai Sour</string>
+    <string name="blade_runner_main">Blade Runner</string>
+    <string name="welcome_runner">Welcome Runner!</string>
+</resources>
